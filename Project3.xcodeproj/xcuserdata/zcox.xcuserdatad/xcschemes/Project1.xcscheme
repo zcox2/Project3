@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EA8F5A151C8C83FB00C8A5BF"
-               BuildableName = "Project1.app"
-               BlueprintName = "Project1"
-               ReferencedContainer = "container:Project1.xcodeproj">
+               BuildableName = "Project3.app"
+               BlueprintName = "Project3"
+               ReferencedContainer = "container:Project3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA8F5A151C8C83FB00C8A5BF"
-            BuildableName = "Project1.app"
-            BlueprintName = "Project1"
-            ReferencedContainer = "container:Project1.xcodeproj">
+            BuildableName = "Project3.app"
+            BlueprintName = "Project3"
+            ReferencedContainer = "container:Project3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA8F5A151C8C83FB00C8A5BF"
-            BuildableName = "Project1.app"
-            BlueprintName = "Project1"
-            ReferencedContainer = "container:Project1.xcodeproj">
+            BuildableName = "Project3.app"
+            BlueprintName = "Project3"
+            ReferencedContainer = "container:Project3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA8F5A151C8C83FB00C8A5BF"
-            BuildableName = "Project1.app"
-            BlueprintName = "Project1"
-            ReferencedContainer = "container:Project1.xcodeproj">
+            BuildableName = "Project3.app"
+            BlueprintName = "Project3"
+            ReferencedContainer = "container:Project3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
